@@ -6,7 +6,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c)
 ![torchvision](https://img.shields.io/badge/torchvision-0.x-ee4c2c)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -144,6 +143,3 @@ The COCO dataset and the generated images are **not** stored in this repo. The d
 
 A large language model was used to scaffold and debug the code and to draft explanations. All code and results were reviewed, executed, and verified by the author, who takes full responsibility for the submission (per the exam's Section 13).
 
-## License
-
-Released under the [MIT License](LICENSE).
