@@ -1,0 +1,24 @@
+
+
+a) zip file for Train & Test data images:
+
+
+https://drive.google.com/file/d/1-GMtMpuZe_s4aJPott-N5sOhpStsCFfq/view?usp=sharing
+
+Directory Structure:
+
+synthetic_data/
+├── figures/
+│   └── generated_samples.png    # 12-sample visualization grid for data auditing
+├── test/                        # Held-out test split images (1,000 samples)
+├── train/                       # Core training split images (5,000 samples)
+├── val/                         # Validation split images for monitoring (1,000 samples)
+├── test_labels.json             # Test set bounding box coordinates and object labels
+├── train_labels.json            # Train set bounding box coordinates and object labels
+└── val_labels.json              # Validation set bounding box coordinates and object labels
+
+
+b) model file:
+
+https://drive.google.com/file/d/10371eAM6w0QVBNZWhjCNRWxXkvCUy8Tf/view?usp=sharing
+

@@ -1,0 +1,17 @@
+# Datasets and generated data (shared via Links.txt, not committed)
+data/
+synthetic_data/
+synthetic_data.zip
+*.zip
+
+# Model weights
+*.pth
+
+# Results produced at runtime
+results/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
