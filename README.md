@@ -137,9 +137,4 @@ The COCO dataset and the generated images are **not** stored in this repo. The d
 - Only F1@IoU0.5 and mean IoU are reported (mAP not computed).
 - The baseline is intentionally weak; a learned shallow-CNN baseline would be a stronger comparison.
 
----
-
-## AI assistance acknowledgment
-
-A large language model was used to scaffold and debug the code and to draft explanations. All code and results were reviewed, executed, and verified by the author, who takes full responsibility for the submission (per the exam's Section 13).
 
